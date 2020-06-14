@@ -14,9 +14,13 @@
 Hi, I'm Risto Nishimura. <br>
 I'm WEB Developer in Tokyo, Japan.
 
-# SNS
+# Contact
 Please feel free to contact me. <br>
 [![][github-badge]][github-link] [![][facebook-badge]][facebook-link] [![][qiita-badge]][qiita-link] [![][wantedly-badge]][wantedly-link] [![][twitter-badge]][twitter-link]
+
+# Portfolio
+This portfolio is powered by Next.js and Vercel and Contentful. <br>
+[https://portfolio.risto24.com](https://portfolio.risto24.com)
 
 # Career
 I was in charge of the front-end of various websites and the construction of APIs for other companies critical systems, and is committed to developing flexible Scrum in small in-house teams. 
