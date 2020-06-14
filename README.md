@@ -11,11 +11,11 @@
 
 
 # Who i am
-Hi, I'm Risto Nishimura.
+Hi, I'm Risto Nishimura. <br>
 I'm WEB Developer in Tokyo, Japan.
 
 # SNS
-Please feel free to contact me.
+Please feel free to contact me. <br>
 [![][github-badge]][github-link] [![][facebook-badge]][facebook-link] [![][qiita-badge]][qiita-link] [![][wantedly-badge]][wantedly-link] [![][twitter-badge]][twitter-link]
 
 # Career
