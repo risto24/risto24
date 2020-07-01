@@ -51,6 +51,9 @@ Amazon : EC2 / Lambda / S3 / SNS
 ### GCP infrastructure
 Google Cloud : Engine / Function / SQL
 
+### Firebase infrastructure
+Cloud FiresStore
+
 ### Version Control System
 GitHub / GitLab
 
