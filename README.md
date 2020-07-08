@@ -13,7 +13,7 @@
   <img src="https://avatars3.githubusercontent.com/u/46432541?s=460&u=aadad697e30023f899e1c9bfd3c978867f636a84&v=4" width="150">
   <h1>Risto Nishimura</h1>
   <strong>Hi, I'm Risto Nishimura. </strong>
-  <h6>WEB Developer in Tokyo, Japan.</h6>
+  <h6>I'm WEB Developer and CertificationScrumMaster in Tokyo, Japan.</h6>
 </div>
 
 # Contact
