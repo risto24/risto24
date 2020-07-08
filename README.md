@@ -16,10 +16,6 @@
   <h6>WEB Developer in Tokyo, Japan.</h6>
 </div>
 
-# Who i am
-Hi, I'm Risto Nishimura. <br>
-WEB Developer in Tokyo, Japan.
-
 # Contact
 Please feel free to contact me. <br>
 [![][github-badge]][github-link] [![][facebook-badge]][facebook-link] [![][qiita-badge]][qiita-link] [![][wantedly-badge]][wantedly-link] [![][twitter-badge]][twitter-link]
