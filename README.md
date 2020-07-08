@@ -9,6 +9,16 @@
 [twitter-badge]: https://img.shields.io/badge/twitter--blue.svg?style=social&logo=twitter
 [twitter-link]: https://twitter.com/risto_jp
 
+<div align="center">
+  <img src="https://avatars3.githubusercontent.com/u/46432541?s=460&u=aadad697e30023f899e1c9bfd3c978867f636a84&v=4" width="150">
+  <h1>Risto Nishimura</h1>
+  <strong>Hi, I'm Risto Nishimura. </strong>
+  <h6>I'm WEB Developer in Tokyo, Japan.</h6>
+</div>
+
+<div align="center">
+[![][github-badge]][github-link] [![][facebook-badge]][facebook-link] [![][qiita-badge]][qiita-link] [![][wantedly-badge]][wantedly-link] [![][twitter-badge]][twitter-link]
+</div>
 
 # Who i am
 Hi, I'm Risto Nishimura. <br>
