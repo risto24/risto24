@@ -35,11 +35,11 @@ Next.js | Contentful | Vercel | Netlify
 ### Language
 HTML5 | CSS | JavaScript | Node.js | PHP
 
-### Database
-Redis | MySQL | MongoDB
-
 ### Framework and Library etc...
 Next.js | React.js | Express.js | Laravel | Sequelize | Pug (Jade) | BootStrap | jQuery
+
+### Database
+Redis | MySQL | MongoDB
 
 ### Infrastructure
 EC2 | Lambda | S3 | SNS | GoogleCloudEngine | GoogleCloudFunction | GoogleCloudSQL | CloudFireStore
