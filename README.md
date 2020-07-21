@@ -39,13 +39,10 @@ HTML5 | CSS | JavaScript | Node.js | PHP
 Next.js | React.js | Express.js | Laravel | Sequelize | Pug (Jade) | BootStrap | jQuery
 
 ### Database
-Redis | MySQL | MongoDB
+Redis | MySQL | MongoDB | AmazonRDS | CloudFireStore | GoogleCloudSQL
 
 ### Infrastructure
-EC2 | Lambda | S3 | SNS | GoogleCloudEngine | GoogleCloudFunction | GoogleCloudSQL | CloudFireStore
+EC2 | Lambda | S3 | GoogleCloudEngine | GoogleCloudFunction
 
-### Version Control System
-GitHub / GitLab
-
-### Editor & Design
-Vim / VScode / Figma
+### Version Control System and Editor and Design tools
+GitHub | GitLab | Vim | VScode | Figma
