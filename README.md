@@ -44,5 +44,5 @@ Redis | MySQL | MongoDB | AmazonRDS | CloudFireStore | GoogleCloudSQL
 ### Infrastructure
 EC2 | Lambda | S3 | GoogleCloudEngine | GoogleCloudFunction
 
-### Version Control System and Editor and Design tools
+### Git and Editor and Design tools
 GitHub | GitLab | Vim | VScode | Figma
