@@ -30,31 +30,19 @@ I was in charge of the front-end of various websites and the construction of API
 # Skills
 
 ### JAM stack
-Next.js / Contentful / Vercel / Netlify
+Next.js | Contentful | Vercel | Netlify
 
-### Front and FrontEnd
-HTML5 / CSS / JavaScript
-
-### Template Engine etc...
-Pug (Jade) / BootStrap / jQuery
-
-### BackEnd
-Node.js / PHP
+### Language
+HTML5 | CSS | JavaScript | Node.js | PHP
 
 ### Database
-Redis / MySQL / MongoDB
+Redis | MySQL | MongoDB
 
 ### Framework and Library etc...
-Next.js / React.js / Express.js / Laravel
+Next.js | React.js | Express.js | Laravel | Sequelize | Pug (Jade) | BootStrap | jQuery
 
-### AWS Infrastructure
-Amazon : EC2 / Lambda / S3 / SNS
-
-### GCP infrastructure
-Google Cloud : Engine / Function / SQL
-
-### Firebase infrastructure
-Cloud FiresStore
+### Infrastructure
+EC2 | Lambda | S3 | SNS | GoogleCloudEngine | GoogleCloudFunction | GoogleCloudSQL | CloudFireStore
 
 ### Version Control System
 GitHub / GitLab
