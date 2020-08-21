@@ -1,4 +1,6 @@
-## <div align="center">I'm Risto, a full-time full-stack developer 👨‍💻<br>working remotely since 2020 🚀</div>  
+# Risto - @risto24
+### Hi, I'm Risto, a full-time full-stack developer 👨‍💻<br>
+### working remotely since 2020 🚀
 
 <br/>
 
