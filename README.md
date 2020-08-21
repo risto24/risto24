@@ -4,6 +4,8 @@
   
 
 ### <div align="center">I'm Risto, a full-time full-stack developer 👨‍💻<br>working remotely since 2020 🚀</div>  
+
+<br/>
   
 
 - 🧑‍💻 I'm WEB Developer and CertificationScrumMaster.  
@@ -20,59 +22,16 @@
 
 <br/>  
 
+# Career
+I was in charge of the front-end of various websites and the construction of APIs for other companies critical systems, and is committed to developing flexible Scrum in small in-house teams. 
+
+<br/>
+
 # Portfolio
 This portfolio is powered by Next.js and Vercel and Contentful. <br>
 [https://portfolio.risto24.com](https://portfolio.risto24.com)
 
-# Career
-I was in charge of the front-end of various websites and the construction of APIs for other companies critical systems, and is committed to developing flexible Scrum in small in-house teams. 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="Redux" height="50" />  
-</div></td><td valign="top" width="33%">
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="Electron" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-</div></td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="50" />  
-</div></td></tr></table>  
-
-<br/>  
-
+<br/>
 
 # Skills
 
@@ -94,6 +53,7 @@ EC2 | Lambda | S3 | GoogleCloudEngine | GoogleCloudFunction
 ### Git and Editor and Design tools
 GitHub | GitLab | Vim | VScode | Figma
 
+<br/>
 
 ## Connect with me  
 <div align="center">
@@ -108,9 +68,11 @@ GitHub | GitLab | Vim | VScode | Figma
 </a>
 <a href="https://www.facebook.com/risto24" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://qiita.com/risto24" target="_blank">
+<img src=https://img.shields.io/badge/qiita-%2324292e.svg?&style=for-the-badge alt=qiita style="margin-bottom: 5px;" />
+</a>
 </div>  
-  
 
 <br/>  
 
