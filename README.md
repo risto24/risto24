@@ -2,10 +2,6 @@
 
 <br/>
 
-----
-
-<br/>
-
 - 🧑‍💻 I'm WEB Developer and CertificationScrumMaster.  
   
 
