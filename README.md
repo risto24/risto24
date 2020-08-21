@@ -1,5 +1,5 @@
 # Risto - @risto24
-### Hi, I'm Risto, a full-time full-stack developer 👨‍💻<br>
+### Hi, I'm a full-time full-stack developer 👨‍💻<br>
 ### working remotely since 2020 🚀
 
 <br/>
