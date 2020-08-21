@@ -6,7 +6,10 @@
 ### <div align="center">I'm Risto, a full-time full-stack developer 👨‍💻<br>working remotely since 2020 🚀</div>  
 
 <br/>
-  
+
+----
+
+<br/>
 
 - 🧑‍💻 I'm WEB Developer and CertificationScrumMaster.  
   
@@ -97,9 +100,3 @@ GitHub | GitLab | Vim | VScode | Figma
 </div>  
 
 <br />
-
-----
-
-
-
-
