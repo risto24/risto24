@@ -1,4 +1,4 @@
-# Risto - @risto24
+# Risto Nishimura - @risto24
 Hi, I'm a full-time full-stack developer 👨‍💻<br>
 working remotely since 2020 🚀
 
