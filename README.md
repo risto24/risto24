@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact: I love vim, and use tabs over spaces  
   
-
 <br/>  
 
 # Career
@@ -74,13 +73,13 @@ GitHub | GitLab | Vim | VScode | Figma
 <br/>
 
 
-## Github Stats  
+# Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=risto24&show_icons=true&count_private=true" align="center" /></div>  
 
 <br/>  
 
 
-## Recent Blog Posts  
+# Recent Blog Posts  
   
 
 <br/>  
