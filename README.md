@@ -1,6 +1,6 @@
 # Risto - @risto24
-### Hi, I'm a full-time full-stack developer 👨‍💻<br>
-### working remotely since 2020 🚀
+Hi, I'm a full-time full-stack developer 👨‍💻<br>
+working remotely since 2020 🚀
 
 <br/>
 
@@ -22,7 +22,7 @@ I was in charge of the front-end of various websites and the construction of API
 
 <br/>
 
-## Connect with me  
+# Connect with me  
 Please feel free to contact me. <br>
 <div align="center">
 <a href="https://linkedin.com/in/risto24" target="_blank">
