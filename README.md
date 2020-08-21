@@ -1,14 +1,11 @@
 # Risto Nishimura - @risto24
-- 🧑‍💻 Job: WEB Developer and CertificationScrumMaster.  
+🧑‍💻 Job: WEB Developer and CertificationScrumMaster.  
   
-
-- 🌱 I love about anything related to JavaScript technologies.  
+🌱 I love about anything related to JavaScript technologies.  
   
-
-- 🌎 Where I live: Japan, Tokyo.  
+🌎 Where I live: Japan, Tokyo.  
   
-
-- ⚡ Fun fact: I love vim, and use tabs over spaces  
+⚡ Fun fact: I love vim, and use tabs over spaces  
   
 <br/>  
 
