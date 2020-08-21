@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://avatars3.githubusercontent.com/u/46432541?s=460&u=aadad697e30023f899e1c9bfd3c978867f636a84&v=4" align="center" height="200" width="200" />
-</div>  
-  
-
-### <div align="center">I'm Risto, a full-time full-stack developer 👨‍💻<br>working remotely since 2020 🚀</div>  
+## <div align="center">I'm Risto, a full-time full-stack developer 👨‍💻<br>working remotely since 2020 🚀</div>  
 
 <br/>
 
