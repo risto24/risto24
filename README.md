@@ -54,7 +54,7 @@ HTML5 | CSS | JavaScript | Node.js | PHP
 Next.js | React.js | ReactNative | Express.js | Laravel | Sequelize | Pug (Jade) | BootStrap | jQuery
 
 ### Database
-Redis | MySQL | MongoDB | AmazonRDS | CloudFireStore | GoogleCloudSQL
+Redis | MySQL | MongoDB | AmazonRDS | CloudFireStore | GoogleCloudSQL | Firestore
 
 ### Infrastructure
 EC2 | Lambda | S3 | GoogleCloudEngine | GoogleCloudFunction
