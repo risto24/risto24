@@ -57,7 +57,7 @@ Next.js | React.js | ReactNative | Express.js | Laravel | Sequelize | Pug (Jade)
 Redis | MySQL | MongoDB | AmazonRDS | CloudFireStore | GoogleCloudSQL | Firestore
 
 ### Infrastructure
-EC2 | Lambda | S3 | ECR | ECS | Cloudfront | Route53 | GoogleCloudEngine | GoogleCloudFunction
+EC2 | Lambda | S3 | ECR | ECS | SQS | Lambda | Cloudfront | Route53 | GoogleCloudEngine | GoogleCloudFunction
 
 ### Git and Editor and Design tools
 GitHub | GitLab | Vim | VScode | Figma
