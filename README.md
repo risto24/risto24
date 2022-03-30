@@ -37,8 +37,8 @@ Please feel free to contact me. <br>
 <br/>  
 
 # Portfolio
-This portfolio is powered by Next.js and Vercel and Contentful. <br>
-[https://portfolio.risto24.com](https://portfolio.risto24.com)
+This portfolio is powered by Next.js and TailwindCSS <br>
+[https://risto24.com](https://risto24.com)
 
 <br/>
 
