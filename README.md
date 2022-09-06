@@ -1,5 +1,5 @@
 # Risto Nishimura - @risto24
-🧑‍💻 Job: WEB Developer and CertificationScrumMaster.  
+🧑‍💻 Job: Software Engineer and CertificationScrumMaster.  
   
 🌱 I love about anything related to JavaScript technologies.  
   
@@ -10,9 +10,8 @@
 <br/>  
 
 # Career
-I was in charge of the front-end of various websites and the construction of APIs for other companies critical systems, and is committed to developing flexible Scrum in small in-house teams. 
-
-<br/>
+I am an engineer, designer and certified Scrum Master.</br>
+I am currently in Japan doing web design, app design, infrastructure planning, front-end coding and back-end coding.
 
 # Connect with me  
 Please feel free to contact me. <br>
@@ -34,54 +33,9 @@ Please feel free to contact me. <br>
 </a>
 </div>  
 
-<br/>  
-
 # Portfolio
-This portfolio is powered by Next.js and TailwindCSS <br>
+This portfolio is powered by Next.js and TailwindCSS. <br>
 [https://risto24.com](https://risto24.com)
-
-<br/>
-
-# Skills
-
-### JAM stack
-Next.js | Contentful | Vercel | Netlify
-
-### Language
-HTML5 | CSS | JavaScript | Node.js | PHP
-
-### Framework and Library etc...
-Next.js | React.js | ReactNative | Express.js | Laravel | Sequelize | Pug (Jade) | BootStrap | jQuery
-
-### Database
-Redis | MySQL | MongoDB | AmazonRDS | CloudFireStore | GoogleCloudSQL | Firestore
-
-### Infrastructure
-EC2 | Lambda | S3 | ECR | ECS | SQS | Lambda | Cloudfront | Route53 | GoogleCloudEngine | GoogleCloudFunction
-
-### Git and Editor and Design tools
-GitHub | GitLab | Vim | VScode | Figma
-
-<br/>
-
 
 # Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=risto24&show_icons=true&count_private=true" align="center" /></div>  
-
-<br/>  
-
-
-# Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=risto24&&style=flat-square" align="center" />
-</div>  
-
-<br />
