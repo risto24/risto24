@@ -8,7 +8,7 @@
 ⚡ Fun fact: I love vim, and use tabs over spaces  
   
 # Career
-I am an engineer, designer and certified Scrum Master.</br>
+Software Engineer, Designer and Certified Scrum Master.
 I am currently in Japan doing web design, app design, infrastructure planning, front-end coding and back-end coding.
 
 # Connect with me  
