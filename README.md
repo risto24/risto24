@@ -1,11 +1,8 @@
 # Risto Nishimura - @risto24
-🧑‍💻 Job: Software Engineer and CertificationScrumMaster.  
-  
-🌱 I love about anything related to JavaScript technologies.  
-  
-🌎 Where I live: Japan, Tokyo.  
-  
-⚡ Fun fact: I love vim, and use tabs over spaces  
+🧑‍💻 **Job:** Software Engineer and CertificationScrumMaster.</br>
+🌱 **Technology:** I love about anything related to JavaScript technologies.</br>
+🌎 **Where I live:** Japan, Tokyo.</br>
+⚡ **Fun fact:** I love vim, and use tabs over spaces
   
 # Career
 Software Engineer, Designer and Certified Scrum Master.<br>
