@@ -11,6 +11,3 @@ I am currently in Japan doing web design, app design, infrastructure planning, f
 # Portfolio
 This portfolio is powered by Next.js and TailwindCSS. <br>
 [https://risto24.com](https://risto24.com)
-
-# Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=risto24&show_icons=true&count_private=true" align="center" /></div>  
